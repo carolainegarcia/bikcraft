@@ -32,17 +32,6 @@
   margin-bottom: 20px;
 }
 
-
-@media (max-width: 1200px) {
-  .intro h1 {
-    font-size: 3rem;
-  }
-
-  .intro p {
-    font-size: 1.125rem;
-  }
-}
-
 @media (max-width: 800px) {
   .intro-bg {
     background: var(--c11);
@@ -60,7 +49,6 @@
   }
 
   .intro h1 {
-    font-size: 2rem;
     margin-bottom: 16px;
   }
 
