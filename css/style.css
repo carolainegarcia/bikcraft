@@ -20,6 +20,8 @@
 
 /* Insurances */
 @import "./insurances/insurances.css";
+@import "./insurances/benefits.css";
+@import "./insurances/faq.css";
 
 /* Terms */
-@import "./terms/terms.css"
+@import "./terms/terms.css";
