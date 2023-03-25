@@ -1,5 +1,6 @@
 .bikes-list {
-  padding: 60px 120px 0 0;
+  padding-top: 60px;
+  padding-bottom: 120px;
 }
 
 .bikes-list h2 {
@@ -13,6 +14,10 @@
   max-width: 1400px;
   margin: 0 auto;
   overflow-x: auto;
+}
+
+#bike .bikes-list ul {
+  padding: 0 0 20px 0;
 }
 
 .bikes-list li {

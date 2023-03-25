@@ -48,6 +48,7 @@
   align-items: center;
   background-color: var(--c12);
   padding: 4px 8px;
+  gap: 8px;
   border-radius: 4px;
 }
 
