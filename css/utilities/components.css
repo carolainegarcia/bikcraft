@@ -16,6 +16,8 @@
   color: var(--p5);
   text-transform: uppercase;
   max-width: max-content;
+  border: none;
+  cursor: pointer;
 }
 
 .btn:hover {
